@@ -1,0 +1,6 @@
+#!/bin/bash 
+# Exit status Types 
+
+SUM={ 1 + 1 }
+
+echo "$SUM"
